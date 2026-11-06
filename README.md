@@ -1,4 +1,6 @@
-<img src="Commit%20Discipline%20Tech%20Badge.png" width="30%">
+<p align="center">
+  <img src="Commit%20Discipline%20Tech%20Badge.png" width="30%">
+</p>
 # 🛡️ Commit Discipline
 
 > Enforces atomic, one-concern git commits with Conventional Commit messages, why-focused bodies, and a strict two-gate human-approval workflow.
